@@ -1,6 +1,6 @@
 # show-laravel-data-using-data-table-
 Display laravel data using ajax and data table simple change tabel id and set in table, tables's id and set url route and ajax route 
-
+and use cdn of dtaa table
 this is my blade 
 <table id="client_list_point" class="display table">
                         <thead>
